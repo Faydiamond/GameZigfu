@@ -1,0 +1,34 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags Ceu_Zigfu
+teeth Teeth_Shape02 85c7ecd9-a172-4edb-bba9-35a19f3bca0f
+hair mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95
+genitals penis01 3b354e4f-ebdb-4336-a5fb-add41fc05f12
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes Tshirt_short 553a8752-3213-4284-b790-6390ccafb8f8
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.129000
+macro Gender 1.000000
+macro Age 0.113000
+macro Height 0.194000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.339000
+macro BodyProportions 0.500000
+background enabled False
+skinMaterial skins/young_asian_female/young_asian_female.mhmat
+material Tshirt_short 553a8752-3213-4284-b790-6390ccafb8f8 clothes/tshirt01/materials/white_tshirt.mhmat
+material jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053 clothes/jeans01/jeans01_black_satin.mhmat
+material shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936 clothes/shoes02/materials/shoes02_blue.mhmat
+material mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95 hair/mhair01/materials/male01_red.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/green.mhmat
+material penis01 3b354e4f-ebdb-4336-a5fb-add41fc05f12 genitals/penis01/default.mhmat
+skeleton game.json
+subdivide False
